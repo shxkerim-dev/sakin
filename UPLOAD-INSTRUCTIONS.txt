@@ -1,0 +1,3 @@
+Загрузите только содержимое site в папку хостинга.
+Политика: https://shxkerim-dev.github.io/sakin/privacy.html
+Передайте publisher.json для финальной сборки APK/AAB.
